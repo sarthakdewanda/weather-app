@@ -21,3 +21,10 @@ A sleek and responsive Weather App that displays current weather information for
 - Responsive design
 - Clean and minimal UI
 
+---
+
+## API Key Setup
+
+1. To get an API key from OpenWeatherMap, go to [OpenWeatherMap](https://openweathermap.org/).
+2. Register and get your free API key.
+3. Replace the placeholder API key in app.js with your key.
