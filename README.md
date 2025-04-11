@@ -1,6 +1,6 @@
 # 🌤️ Weather App
 
-[🔗 Live Application](https://beautiful-meerkat-3765b5.netlify.app/)
+[🔗 Live Application](https://glittering-selkie-a0092b.netlify.app/)
 
 A sleek and responsive Weather App that displays current weather information for any city using a weather API.
 
