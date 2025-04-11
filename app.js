@@ -1,4 +1,4 @@
-let id = 'ddae16d285858e73d33b8777bfd96973';
+let id = '{API KEY}';
 let url = 'https://api.openweathermap.org/data/2.5/weather?units=metric&appid=' + id;
 let city = document.querySelector('.name');
 let form = document.querySelector("form");
